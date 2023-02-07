@@ -12,9 +12,11 @@ baseurl: ""
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Guerau
-# typing_text: This will be typed before 'scroll down for more'.
+# typing_text: This will be typed.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text1: Enginyer
+typing_text2: Trombonista
+
 # email: Your E-Mail address for the email button.
 email: email@example.com
 # For every social button you want to display, set your username or userid
