@@ -14,8 +14,10 @@ baseurl: ""
 username: Guerau
 # typing_text: This will be typed.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text1: Enginyer
+typing_text1: Programador
 typing_text2: Trombonista
+typing_text3: Professor
+typing_text4: Estudiant
 
 # email: Your E-Mail address for the email button.
 email: email@example.com
