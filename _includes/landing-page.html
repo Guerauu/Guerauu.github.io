@@ -1,12 +1,15 @@
 <div id="landing">
   <div class="landing-title">
     <h1>Bones! Sóc el
-                      
-      <a target="_blank" rel="noreferrer" href="{{site.baseurl}}/Musica/jo.html"> 
+       
+      {% if site.linkedin_username != null %}
+      <a target="_blank" rel="noreferrer" href="{{site.baseurl}}/Jo/projectes.html"> 
         
         <span class="highlight-title">{{site.username}} </span> 
         
       </a> ,
+      
+      {% endif %}
     </h1>
     <h1>
       <span id="txt-rotate" data-period="2000"
