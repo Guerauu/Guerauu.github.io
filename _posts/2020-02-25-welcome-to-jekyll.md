@@ -28,8 +28,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 #!/usr/bin/env python3
 
-# this script translates bad usb ducky scripts to german keyboard layout
-# all props go to u/felice-el-chillo, just removed the hardcoded filename to argument
+#this script translates bad usb ducky scripts to german keyboard layout
+#all props go to u/felice-el-chillo, just removed the hardcoded filename to argument
 
 
 import sys
