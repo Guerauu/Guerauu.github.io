@@ -2,5 +2,10 @@
 title: Projectes
 permalink: /Projectes/
 ---
-
-{% post post1.md %}
+<div class="post-list">
+        {%- for post in posts -%}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h3>{{ post.title | escape }}</h3>
+          </a>
+        {%- endfor -%}
+</div>
